@@ -132,7 +132,7 @@ class library
         {
             cout<<"||----------------------------------------------------||"<<endl;
             cout<<"Book not found"<<endl;
-            cout<<"Author : "<<searchTitle<<endl;
+            cout<<"Title : "<<searchTitle<<endl;
         }
     }
 
