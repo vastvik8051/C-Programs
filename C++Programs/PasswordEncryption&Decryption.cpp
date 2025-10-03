@@ -27,7 +27,7 @@ class password
     {
         cout<<"-----------------------------------------------------------\n";
         cout<<"orignal pass: "<<pass<<endl;
-        cout<<"encrypted pass: "<<encPass;
+        cout<<"encrypted pass: "<<encPass<<endl;
     }
 
     void encryption()
